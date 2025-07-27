@@ -49,8 +49,8 @@ src/
 ### 1. Clone or Extract the Project
 
 ```bash
-git clone https://github.com/your-username/edgy-instagram-agency.git
-cd edgy-instagram-agency
+git clone https://github.com/your-username/edgy.git
+cd edgy
 ```
 
 Or simply extract the ZIP and navigate to the folder.
