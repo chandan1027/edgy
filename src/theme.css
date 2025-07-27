@@ -1,0 +1,27 @@
+/* Dark theme with purple highlights */
+
+.text-purple {
+  color: #a855f7;
+}
+
+.bg-dark {
+  background-color: #1a1a1a !important;
+}
+
+.btn-primary {
+  background-color: #a855f7;
+  border: none;
+}
+
+.btn-primary:hover {
+  background-color: #9333ea;
+}
+
+.navbar {
+  background-color: #1a1a1a;
+  border-bottom: 1px solid #333;
+}
+
+footer {
+  border-top: 1px solid #333;
+}

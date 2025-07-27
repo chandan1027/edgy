@@ -1,0 +1,32 @@
+Edgy-Instagram-Agency/
+│── public/
+│   └── logo.png
+│
+│── src/
+│   ├── assets/ (images)
+│   ├── components/
+│   │   ├── Navbar.jsx
+│   │   ├── Footer.jsx
+│   │   └── ProtectedRoute.jsx
+│   ├── context/
+│   │   └── AuthContext.jsx
+│   ├── pages/
+│   │   ├── Home.jsx
+│   │   ├── Services.jsx
+│   │   ├── Pricing.jsx
+│   │   ├── Blog.jsx
+│   │   ├── Careers.jsx
+│   │   ├── Contact.jsx
+│   │   ├── Login.jsx
+│   │   ├── Signup.jsx
+│   │   ├── Profile.jsx
+│   │   ├── ChangePassword.jsx
+│   │   └── DeleteAccount.jsx
+│   ├── App.jsx
+│   ├── main.jsx
+│   ├── index.css
+│   └── theme.css
+│
+│── package.json
+│── vite.config.js
+│── README.md
