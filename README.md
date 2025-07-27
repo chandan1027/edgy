@@ -36,7 +36,7 @@ Copy code
 
 1. **Clone or extract project**
    ```bash
-   cd Edgy-Instagram-Agency
+   cd edgy
 Install dependencies
 
 bash
